@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Dudy6.Dudy6&style=for-the-badge" alt="访客计数" />
 
   <!-- 打字机特效 (替换 YOUR_USERNAME 为你的真实用户名) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+%F0%9F%91%8B+[你的名字]!;%E7%83%AD%E8%A1%B7%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%96%B0%E6%89%8B%E5%BC%80%E5%8F%91%E8%80%85;AI%20%7C%20PyTorch%20%7C%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6" alt="打字特效" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+%F0%9F%91%8B+Dudy6!;%E7%83%AD%E8%A1%B7%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%96%B0%E6%89%8B%E5%BC%80%E5%8F%91%E8%80%85;AI%20%7C%20PyTorch%20%7C%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6" alt="打字特效" />
 </p>
 
 <!-- ===================== 分隔线 ===================== -->
@@ -66,7 +66,7 @@
 <h2 align="center">📬 联系我 | Connect With Me</h2>
 <p align="center">
   <!-- 邮箱 -->
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:dudy6010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   
