@@ -58,7 +58,7 @@
 
 <p>
   <!-- 替换成你的邮箱 -->
-  <a href="mailto:你的邮箱地址@gmail.com">
+  <a href="mailto:dudy6010@gmail.com">
       
   </a>
   <!-- 替换成你的LinkedIn链接 (如果有的话) -->
@@ -75,11 +75,11 @@
   🤝 欢迎交流学习心得和项目想法！
 </p>
 
-**Dudy6/Dudy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//**Dudy6/Dudy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+//Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+//- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
