@@ -2,6 +2,12 @@
 
 <h1 align="center">✨ 欢迎来到我的 GitHub 主页! ✨</h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ringyale/Ringyale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ringyale/Ringyale/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ringyale/Ringyale/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- ===================== 动态区域 ===================== -->
 <p align="center">
   <!-- 访客计数器 (替换 YOUR_USERNAME 为你的真实用户名) -->
