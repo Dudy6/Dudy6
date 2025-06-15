@@ -10,7 +10,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Dudy6&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
   <!-- 打字机特效 (替换 YOUR_USERNAME 为你的真实用户名) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+,+I'm Dudy!;%E7%83%AD%E8%A1%B7%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%96%B0%E6%89%8B%E5%BC%80%E5%8F%91%E8%80%85;AI%20%7C%20PyTorch%20%7C%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6" alt="打字特效" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+,+I'm+Dudy!;%E7%83%AD%E8%A1%B7%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%96%B0%E6%89%8B%E5%BC%80%E5%8F%91%E8%80%85;AI%20%7C%20PyTorch%20%7C%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6" alt="打字特效" />
 </p>
 
 <!-- ===================== 分隔线 ===================== -->
