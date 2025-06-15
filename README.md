@@ -26,7 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" alt="Keras" />
+  <img src="https://img.shields.io/badge/PaddlePaddle-00C1FF?logo=paddlepaddle&logoColor=white&style=for-the-badge" alt="PaddlePaddle" />
 </p>
 
 <strong>📊 数据处理与可视化 | Data & Viz</strong>
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-8C3F97?logo=seaborn&logoColor=white&style=for-the-badge" alt="Seaborn" />
 </p>
 
 <strong>🧰 开发与协作工具 | Dev & Collab Tools</strong>
@@ -53,9 +52,9 @@
 
 <ul>
   <li>🔍 <strong>系统学习</strong>：深入理解神经网络原理（CNN, RNN, Transformer）和优化算法 (Backpropagation, SGD, Adam)</li>
-  <li>🛠️ <strong>动手实践</strong>：使用 PyTorch 复现 ResNet 架构，参加 Kaggle 的 <a href="https://www.kaggle.com/c/digit-recognizer">Digit Recognizer</a> 竞赛</li>
-  <li>📚 <strong>学习资源</strong>：正在学习 <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> 课程</li>
-  <li>🌱 <strong>短期目标</strong>：构建一个猫狗图片分类器并部署到 Hugging Face Spaces</li>
+  <li>🛠️ <strong>动手实践</strong>：复现 ResNet 架构；参加 Kaggle 的入门竞赛</li>
+  ## <li>📚 <strong>学习资源</strong>：正在学习 <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> 课程</li>
+  ## <li>🌱 <strong>短期目标</strong>：构建一个猫狗图片分类器并部署到 Hugging Face Spaces</li>
   <li>✨ <strong>长期愿景</strong>：开发基于医学影像的肺炎自动检测系统</li>
 </ul>
 
@@ -70,15 +69,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   
-  <!-- LinkedIn (可选) -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  
-  <!-- 知乎/B站等国内平台 -->
-  <a href="https://www.zhihu.com/people/YOUR_ZHIHU">
-    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?logo=zhihu&logoColor=white&style=for-the-badge" alt="知乎"/>
-  </a>
 </p>
 
 <p align="center">
