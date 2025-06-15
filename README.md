@@ -53,8 +53,6 @@
 <ul>
   <li>🔍 <strong>系统学习</strong>：深入理解神经网络原理（CNN, RNN, Transformer）和优化算法 (Backpropagation, SGD, Adam)</li>
   <li>🛠️ <strong>动手实践</strong>：复现 ResNet 架构；参加 Kaggle 的入门竞赛</li>
-  ## <li>📚 <strong>学习资源</strong>：正在学习 <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> 课程</li>
-  ## <li>🌱 <strong>短期目标</strong>：构建一个猫狗图片分类器并部署到 Hugging Face Spaces</li>
   <li>✨ <strong>长期愿景</strong>：开发基于医学影像的肺炎自动检测系统</li>
 </ul>
 
